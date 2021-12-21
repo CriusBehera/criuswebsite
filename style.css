@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+label {
+    color: white;
+}
+
+#time {
+    color: white;
+    font-size: 60px;
+}
+
+button {
+    border-radius: 100px;
+    border-width: medium;
+    border-color: white;
+    background-color: greenyellow;
+    color: black;
+    font-size: medium;
+}
+
+h1 {
+    color: gold;
+}
+
+/* By Crius Behera */
